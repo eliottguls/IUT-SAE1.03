@@ -1,0 +1,2 @@
+#!/bin/bash
+docker container cp sae103-finish:/rendu
