@@ -1,8 +1,0 @@
-#!/bin/bash
-docker container stop sae103-scraper
-docker container rm sae103-scraper
-docker container stop sae103-fetcher
-docker container rm sae103-fetcher
-docker container stop sae103-finish
-docker container rm sae103-finish
-docker volume rm sae103
